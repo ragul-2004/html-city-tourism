@@ -1,7 +1,7 @@
-![output](https://github.com/user-attachments/assets/a5f4ae65-133d-4d99-88ee-39dcc76c9f9f)# html-city-tourism
 ### Ex-1
 #### Creating a html file to display the contents as seen in the following image.
 #### Program:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -74,8 +74,9 @@
 </table>
 </body>
 </html>
+```
 #### Output
-![output](https://github.com/user-attachments/assets/bb064c58-99ae-49ee-ae4c-a8480eeccb64)
+![output](https://github.com/user-attachments/assets/a5f4ae65-133d-4d99-88ee-39dcc76c9f9f)# html-city-tourism
 
 #### Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
