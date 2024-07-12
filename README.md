@@ -1,8 +1,7 @@
-# html-city-tourism
+![output](https://github.com/user-attachments/assets/a5f4ae65-133d-4d99-88ee-39dcc76c9f9f)# html-city-tourism
 ### Ex-1
 #### Creating a html file to display the contents as seen in the following image.
 #### Program:
-```
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,12 +30,12 @@
 <th colspan="2" class="center highlight" style="border-style: double;"><mark>Things to watch</mark></th>
 </tr>
 <tr >
-<td style="border-style: double;"><img src="1.png" alt="image 1" width="100" height="100" >
-<td style="border-style: double;"><img src="2.png" alt="image 2" width="100" height="100">
+<td style="border-style: double;"><img src="10801070.jpg" alt="image 1" width="100" height="100" >
+<td style="border-style: double;"><img src="10801123.jpg" alt="image 2" width="100" height="100">
 </tr>
 <tr>
-<td style="border-style: double;"><img src="3.png" alt="image 3" width="100" height="100">
-<td style="border-style: double;"><img src="4.png" alt="image 4" width="100" height="100">
+<td style="border-style: double;"><img src="10801163.jpg" alt="image 3" width="100" height="100">
+<td style="border-style: double;"><img src="10801300.jpg" alt="image 4" width="100" height="100">
 </td>
 
 </tr>
@@ -75,9 +74,9 @@
 </table>
 </body>
 </html>
-```
 #### Output
-![Screenshot 2024-07-02 134519](https://github.com/ManojTella/html-city-tourism/assets/94883876/48b88671-5277-4e5d-b4f7-4952d2fcf276)
+![output](https://github.com/user-attachments/assets/bb064c58-99ae-49ee-ae4c-a8480eeccb64)
+
 #### Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
 
